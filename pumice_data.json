@@ -1,0 +1,7 @@
+{
+  "name": "Pumice",
+  "type": "Igneous Rock",
+  "density": "Low",
+  "can_float": true,
+  "formation": "Rapid cooling of gas-rich lava"
+}
